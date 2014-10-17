@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[glu:home|Door43 (glu)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-glu|d43-glu repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-glu/archive/master.zip|d43-glu.zip]]
+
+**Recent Changes**
+{{changes>ns = glu}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/glu|Ethnologue data]]
+
